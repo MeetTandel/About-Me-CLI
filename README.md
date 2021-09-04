@@ -1,6 +1,6 @@
-# mark 1, 2 & 3 - CLI App 
+# mark 1 - About Me CLI 
 
-A CLI based interactive quiz game completely build using NodeJs , which checks how well do you know Anime.
+A CLI based interactive quiz game completely build using NodeJs about me.
 
 #### Live Project [https://replit.com/@shivtandel47/mark1-About-Me#index.js](https://replit.com/@shivtandel47/mark1-About-Me#index.js)
 
